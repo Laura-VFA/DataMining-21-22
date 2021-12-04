@@ -1,0 +1,25 @@
+{
+	"months" : {
+		"Enero": 1,
+		"Febrero": 2,
+		"Marzo": 3,
+		"Abril": 4,
+		"Mayo": 5,
+		"Junio": 6,
+		"Julio": 7,
+		"Agosto": 8,
+		"Septiembre": 9,
+		"Octubre": 10,
+		"Noviembre": 11,
+		"Diciembre": 12
+	},
+	
+	"season_to_month_dict" : {
+		"primav": [3, 5],
+		"verano": [6, 8],
+		"otoño": [9, 11],
+		"invierno": [12, 2],
+		"invierno final": [2, 2],
+		"invierno finales": [2, 2],
+	}
+}
