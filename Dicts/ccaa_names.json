@@ -13,7 +13,7 @@
 		"CUENCA": "Castilla La Mancha",
 		"GRANADA": "Andalucia",
 		"HUELVA": "Andalucia", 
-		"LA CORUÃ\x91A": "Galicia",
+		"LA CORUÃ\\x91A": "Galicia",
 		"LA RIOJA": "La Rioja",
 		"LEON": "Castilla Leon",
 		"LERIDA": "Cataluña",
