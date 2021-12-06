@@ -1,4 +1,4 @@
-Cultivo|Temperatura min req|Temperatura max req|Temperatura min opt|Temperatura max opt|Dias entre riego zona seca|Dias entre riego zona húmeda|Tipo||
+Cultivo|Temperatura min req|Temperatura max req|Temperatura min opt|Temperatura max opt|Dias entre riego zona seca|Dias entre riego zona húmeda|Tipo
 ACELGA|6|33|15|25|4|10|SECANO
 AJO|7|30|14|24|5|7|SECANO
 ALCACHOFA|7|29|15|18|1|2|REGADIO
