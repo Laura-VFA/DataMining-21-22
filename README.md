@@ -8,7 +8,7 @@
 ## Introducción
 El objetivo de este proyecto  es la implementación de un sistema de ayuda a la decisión en el que se recomiende **qué cultivo sembrar según varios factores** (mes, región de España, temperatura, precipitación...).  
 
-Se preprocesan y transforman los datos de los que se dispone para posteriormente analizar los resultados e identificar casos de interés (*DM-Entrega2*). Finalmente, se construirán modelos de minería de datos para conseguir las hipótesis planteadas (*DM-Entrega3*):
+Se preprocesan y transforman los datos de los que se dispone para posteriormente analizar los resultados e identificar casos de interés ([*DM-Entrega2*](https://colab.research.google.com/drive/1VmUQQWaIGwtWWQ2py8VgjR2z2JsLmPvG?usp=sharing)). Finalmente, se construirán modelos de minería de datos para conseguir las hipótesis planteadas ([*DM-Entrega3*](https://colab.research.google.com/drive/1pmYAuYXrFAFodZlB32a60usiOJkkAxo4?usp=sharing)):
 1. ¿Cuál es el cultivo más rentable a sembrar?
 2. Influencia de variables (como temperatura, región o precipitación) en el beneficio de un cultivo.
 
