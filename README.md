@@ -16,7 +16,7 @@ Se preprocesan y transforman los datos de los que se dispone para posteriormente
 - Datos de las consumiciones del sector agrícola en España. *Fuente: Ministerio de Agricultura, Pesca y Alimentación*.
 - Datos de los precios semanales de productos agroalimentarios. *Fuente: Observatorio de Precios de los Alimentos de la Junta de Andalucía*.
 - Datos acerca de las comercializaciones de frutas/hortalizas. *Fuente: MercaMadrid y MercaBarna*.
-- Datos del comercio exterior de España de frutas y hortalizas con  el  resto  de  pa ́ıses  de  Europa. *Fuente: Eurostat*.
+- Datos del comercio exterior de España de frutas y hortalizas con  el  resto  de  países  de  Europa. *Fuente: Eurostat*.
 - Calendario de cultivos. 
 - Datos de las precipitacionesdela. *Fuente: Agencia Estatal de Meteorología*.
 - Datos acerca de cada cultivo y sus necesidades de riego.
