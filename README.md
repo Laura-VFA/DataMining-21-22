@@ -6,7 +6,7 @@
 - Iago García Suárez
 
 ## Introducción
-El objetivo de este proyecto  es la implementación de un sistema de ayuda a la decisión en el que se recomiende qué cultivo sembrar según varios factores (mes, región de España, temperatura, precipitación...).  
+El objetivo de este proyecto  es la implementación de un sistema de ayuda a la decisión en el que se recomiende **qué cultivo sembrar según varios factores** (mes, región de España, temperatura, precipitación...).  
 
 Se preprocesan y transforman los datos de los que se dispone para posteriormente analizar los resultados e identificar casos de interés (*DM-Entrega2*). Finalmente, se construirán modelos de minería de datos para conseguir las hipótesis planteadas (*DM-Entrega3*):
 1. ¿Cuál es el cultivo más rentable a sembrar?
@@ -22,4 +22,4 @@ Se preprocesan y transforman los datos de los que se dispone para posteriormente
 - Datos acerca de cada cultivo y sus necesidades de riego.
 
 ## Ejecución
-El formato son *jupyter notebooks*, por lo que pueden ejecutarse desde un pc local utilizando Python. No obstante, se utilizan *widgets* y otras funcionalidades exclusivas de [*Google Colab*](https://colab.research.google.com/), por lo que se recomienda ejecutarlo en su entorno para una correcta visualización de todos los elementos.
+El formato son *jupyter notebooks*, por lo que pueden ejecutarse desde un pc local utilizando [Python](https://www.python.org/). No obstante, se utilizan *widgets* y otras funcionalidades exclusivas de [*Google Colab*](https://colab.research.google.com/), por lo que se recomienda ejecutarlo en su entorno para una correcta visualización de todos los elementos.
